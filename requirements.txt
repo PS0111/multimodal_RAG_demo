@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+pandas
+numpy
+google-cloud-aiplatform
+PyMuPDF
+Pillow
+ipython
+requests

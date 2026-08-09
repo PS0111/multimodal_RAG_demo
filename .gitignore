@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.venv/
+venv/
+env/
+
+# Generated artifacts
+data/output/
+logs/
+*.log
+
+# OS / IDE
+.DS_Store
+.idea/

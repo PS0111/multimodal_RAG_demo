@@ -1,0 +1,142 @@
+[
+  {
+    "id": "text_factual_01",
+    "question": "What are the three levels of strategy described in the deck, and what type of advantage does each level aim to achieve?",
+    "category": "text_factual",
+    "source_page": 23,
+    "notes": "Levels of Strategy slide: Corporate Strategy (Group Advantage), Business Strategy (Competitive Advantage), Functional Strategy (Strategic Effectiveness & Fit)."
+  },
+  {
+    "id": "text_factual_02",
+    "question": "What are the three primary motives for diversification listed in the deck?",
+    "category": "text_factual",
+    "source_page": 25,
+    "notes": "Motives for diversification slide: Profitability (Synergies), Growth, Risk diversification."
+  },
+  {
+    "id": "text_factual_03",
+    "question": "How does the deck define a Keiretsu?",
+    "category": "text_factual",
+    "source_page": 44,
+    "notes": "Diversification in Japan slide: 'Keiretsu = Japanese business networks made up of different companies that have close relationships and sometimes take small equity stakes in each other, all the while remaining operationally independent.'"
+  },
+  {
+    "id": "text_factual_04",
+    "question": "Which airlines make up Lufthansa's Passenger Airlines business segment?",
+    "category": "text_factual",
+    "source_page": 18,
+    "notes": "Lufthansa Segments text block: Lufthansa Airlines, SWISS, Austrian Airlines, Brussels Airlines, plus Eurowings as the value carrier."
+  },
+  {
+    "id": "text_factual_05",
+    "question": "How does the deck define synergies in plain language, using a simple mathematical expression?",
+    "category": "text_factual",
+    "source_page": 26,
+    "notes": "Profitability (Synergies) slide: '2 + 2 > 4', plus the formal definition and economist/strategist framings."
+  },
+  {
+    "id": "text_factual_06",
+    "question": "According to the meta-analysis on CEO pay referenced in the deck, roughly what percentage of variance in CEO pay is explained by firm size versus firm performance?",
+    "category": "text_factual",
+    "source_page": 36,
+    "notes": "Background reading slide (Tosi, Werner, Katz, Gomez-Mejia, 2000): firm size >40% of variance, performance <5%."
+  },
+  {
+    "id": "image_factual_01",
+    "question": "In the Volkswagen brand positioning chart, which brand is placed at the most 'functional, low luxury focus' end of the map?",
+    "category": "image_factual",
+    "source_page": 29,
+    "notes": "VW Brand Portfolio 2D map image, axes Luxury Focus vs Value Orientation: Skoda sits in the functional/low-luxury corner."
+  },
+  {
+    "id": "image_factual_02",
+    "question": "In the Lufthansa Group diagram showing consolidation, core business, and portfolio cleanup, which two brands are shown being divested under 'Portfolio cleanup'?",
+    "category": "image_factual",
+    "source_page": 20,
+    "notes": "Diagram image: AirPlus and LSG group shown with checkmarks under Portfolio cleanup circle."
+  },
+  {
+    "id": "image_factual_03",
+    "question": "In the risk diversification chart, what happens to 'unique risk' as the number of projects in a portfolio increases?",
+    "category": "image_factual",
+    "source_page": 33,
+    "notes": "Risk diversification image graph: unique risk declines and flattens out toward the market risk floor as number of projects rises."
+  },
+  {
+    "id": "image_factual_04",
+    "question": "In the South Korean chaebol chart, which single chaebol has the largest revenue bar among the five named companies shown?",
+    "category": "image_factual",
+    "source_page": 45,
+    "notes": "'Too big to play fair' bar chart image: Samsung has the largest revenue segment among Samsung, Hyundai, SK, LG, Lotte."
+  },
+  {
+    "id": "image_factual_05",
+    "question": "In the Volkswagen Group Steering Matrix diagram, which technology platform row focuses on establishing a 'single future backbone'?",
+    "category": "image_factual",
+    "source_page": 30,
+    "notes": "Steering Matrix image: row 1, 'Architecture - SSP as single future backbone.'"
+  },
+  {
+    "id": "image_factual_06",
+    "question": "In the Volkswagen BEV architecture timeline diagram, how many separate BEV architectures existed in the '3 Pioneer BEV architectures' stage compared to the final 'One BEV architecture' stage?",
+    "category": "image_factual",
+    "source_page": 31,
+    "notes": "VW Synergies timeline image: 3 pioneer architectures (e-tron, J1, MEB) collapsing down to 1 (SSP)."
+  },
+  {
+    "id": "reasoning_01",
+    "question": "Comparing the Ryanair brand family and the Emirates/dnata group shown as examples of 'the group portfolio is a strategic choice,' how do their approaches to structuring multiple brands differ from how Volkswagen structures its Core, Progressive, and Sport Luxury brand groups?",
+    "category": "reasoning",
+    "source_page": "21, 28",
+    "notes": "Requires connecting the Ryanair/Emirates image slide (21) with the VW brand-group structure text (28) - cross-slide comparison, text+image evidence."
+  },
+  {
+    "id": "reasoning_02",
+    "question": "Using Porter's three tests for diversification described later in the deck, how would you evaluate whether Volkswagen's cross-brand-group synergy efforts in architecture, software, and battery platforms are likely to create shareholder value?",
+    "category": "reasoning",
+    "source_page": "30, 47",
+    "notes": "Applies the Attractiveness/Cost of Entry/Better-Off tests (page 47) to the VW Steering Matrix synergy content (page 30) - text-based application across sessions."
+  },
+  {
+    "id": "reasoning_03",
+    "question": "Given the BCG Matrix framework and the quiz result showing moderately diversified firms perform best, how does over-investing in 'Star' businesses interact with the risk-diversification tradeoff described in the boots-and-sunscreen scenario?",
+    "category": "reasoning",
+    "source_page": "34, 38, 41, 48",
+    "notes": "Connects BCG Matrix image (48), the quiz curve shapes and revealed answer (38, 41), and the Scenario A/B risk-diversification example (34) - image+text synthesis."
+  },
+  {
+    "id": "reasoning_04",
+    "question": "Based on the institutional voids argument in the deck, why might diversified conglomerates be more beneficial in Asia-Pacific markets than in Western Europe or North America?",
+    "category": "reasoning",
+    "source_page": 43,
+    "notes": "Requires connecting the general institutional-voids claim to the regional premium/discount data shown on the same slide - single-slide but requires inferential reasoning, not simple lookup."
+  },
+  {
+    "id": "out_of_context_01",
+    "question": "What is Michael Porter's Five Forces framework, and how does it explain industry attractiveness?",
+    "category": "out_of_context",
+    "source_page": null,
+    "notes": "Realistic distractor - deck mentions Porter's diversification tests and an 'Attractiveness Test' but never covers Five Forces; plausible enough that a hallucinating system might fabricate an answer."
+  },
+  {
+    "id": "out_of_context_02",
+    "question": "What was Disney's revenue growth rate over the past decade?",
+    "category": "out_of_context",
+    "source_page": null,
+    "notes": "Realistic distractor - Disney appears as an upcoming case study topic (pages 8, 51) but no financial figures for Disney are given anywhere in this deck."
+  },
+  {
+    "id": "out_of_context_03",
+    "question": "What is the boiling point of water at sea level?",
+    "category": "out_of_context",
+    "source_page": null,
+    "notes": "Absurd sanity check - entirely unrelated to corporate strategy content."
+  },
+  {
+    "id": "out_of_context_04",
+    "question": "Who won the FIFA World Cup in 2022?",
+    "category": "out_of_context",
+    "source_page": null,
+    "notes": "Absurd sanity check - entirely unrelated to the deck's subject matter."
+  }
+]
