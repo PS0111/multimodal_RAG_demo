@@ -4,7 +4,7 @@ from fastapi import FastAPI
 
 from multimodal_rag_demo.functions.controllers.debug_controller import router as debug_router
 from multimodal_rag_demo.functions.controllers.query_controller import router as query_router
-from multimodal_rag_demo.functions.vertex_client import init_vertex
+from multimodal_rag_demo.common.vertex_client import init_vertex
 
 
 @asynccontextmanager

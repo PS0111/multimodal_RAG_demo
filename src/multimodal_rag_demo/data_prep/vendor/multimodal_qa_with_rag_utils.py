@@ -281,7 +281,8 @@ def get_gemini_response(
 
     candidates = getattr(last_chunk, "candidates", None)
     finish_reason = getattr(candidates[0], "finish_reason", None) if candidates else None
-    logger.info(f"Gemini response finish_reason: {finish_reason if finish_reason is not None else 'not found'}")
+    finish_reason_name = getattr(finish_reason, "name", None) if finish_reason is not None else None
+    logger.info(f"Gemini response finish_reason: {finish_reason_name if finish_reason_name is not None else 'not found'}")
 
     return response
 

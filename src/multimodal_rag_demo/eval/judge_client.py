@@ -2,11 +2,12 @@ import json
 
 from vertexai.generative_models import GenerationConfig, GenerativeModel
 
-# A step up from the gemini-2.5-flash used for answer generation (see
-# multimodal_rag_demo/functions/vertex_client.py), so the judge isn't
-# grading its own homework with the exact same (lighter) model. Assumes
-# vertexai.init() has already run (tests/conftest.py's session fixture
-# calls multimodal_rag_demo.functions.vertex_client.init_vertex() at startup).
+# A step up from the gemini-2.5-flash used for answer generation and
+# captioning (see multimodal_rag_demo/common/vertex_client.py), so the
+# judge isn't grading its own homework with the exact same (lighter) model.
+# Assumes vertexai.init() has already run (tests/conftest.py's session
+# fixture calls multimodal_rag_demo.common.vertex_client.init_vertex()
+# at startup).
 JUDGE_MODEL_NAME = "gemini-2.5-pro"
 
 # Constrains generate_content() to this exact shape instead of relying on the

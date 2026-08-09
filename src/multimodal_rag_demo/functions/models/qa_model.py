@@ -1,6 +1,6 @@
 from multimodal_rag_demo.data_prep.vendor import multimodal_qa_with_rag_utils as rag_utils
 
-from multimodal_rag_demo.functions import vertex_client
+from multimodal_rag_demo.common import vertex_client
 from multimodal_rag_demo.functions.models.metadata_store import image_metadata_df, text_metadata_df
 from multimodal_rag_demo.functions.prompts import QA_PROMPT
 

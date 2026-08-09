@@ -58,11 +58,11 @@ Extracted images are saved under `data/output/images/`.
 ### 2. Retrieval backend
 
 ```bash
-uvicorn multimodal_rag_demo.main:app --reload
+uvicorn multimodal_rag_demo.main:app --reload --port 8001
 ```
 
-Then hit the two debug endpoints to inspect retrieval quality against the
-metadata produced in step 1:
+Then hit the two debug endpoints (against `http://127.0.0.1:8001`) to
+inspect retrieval quality against the metadata produced in step 1:
 
 ```
 GET /debug/search-text?query=<text>&top_n=<int>

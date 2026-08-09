@@ -1,6 +1,6 @@
 import pytest
 
-from multimodal_rag_demo.functions import vertex_client
+from multimodal_rag_demo.common import vertex_client
 from multimodal_rag_demo.functions.models import qa_model
 
 
